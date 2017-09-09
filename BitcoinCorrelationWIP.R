@@ -55,7 +55,7 @@ plot_ly() %>%
 
 
 
-
+#-------------------------------------------------------------------------------WIP
 getPoloData <- function(symbol, start= "1405699200", tspan = 300){
   cat("Grabbing ", symbol, " prices from Poloniex", fill = TRUE)
   "https://poloniex.com/public?command=returnChartData&currencyPair=%s&start=%s&end=9999999999&period=%d" 
