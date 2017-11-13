@@ -12,4 +12,4 @@ To do:
 
 Instrcutions:
 - Open RStudio
-- Load, compile, and run Bitcoin
+- Load, compile, and run BitcoinCorrelationWIP.r
