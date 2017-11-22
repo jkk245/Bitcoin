@@ -17,3 +17,5 @@ To do:
 Instrcutions:
 - Open RStudio
 - Load, compile, and run BitcoinCorrelationWIP.R
+
+![alt text](http://rpubs.com/plotpls/asdf)
