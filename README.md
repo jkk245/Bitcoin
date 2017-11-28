@@ -13,6 +13,7 @@ To do:
 - Merge weighted average bitcoin prices, figure out how to combine tables of diff length
 - Grab altcoin data from exchange i.e Polonex
 - Calculate correlation and use library functions for heatmap
+- Upload market share code, implement plotly API in readme
 
 Instrcutions:
 - Open RStudio
